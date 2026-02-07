@@ -193,9 +193,7 @@ nav a:hover {
   color: #291917;
   transition: 0.3s;
 }
-/* * {
-  outline: 1px solid red;
-} */
+
 #gallery {
   height: 50vh;
   width: 100%;
@@ -318,13 +316,4 @@ th {
   border: 2px solid #efe5df;
   padding: 8px;
 }
-@media (max-width: 768px) {
-  #about {
-    flex-direction: column;
-    text-align: center;
-  }
 
-  #about img {
-    margin: 16px auto;
-  }
-}
